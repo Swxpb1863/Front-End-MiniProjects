@@ -6,5 +6,5 @@ Following are the projects:
 4. Random Choice Picker
 5. Live User Filter
 ------
-Disclaimer: I do not claim ownership of the content as I am only sharing my learning and hands-on experince which is a fortune for me! 
-------
+**Disclaimer**: I do not claim ownership of the content as I am only sharing my learning and hands-on experince which is a fortune for me! 
+
